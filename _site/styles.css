@@ -1,0 +1,48 @@
+/* css styles */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fffaf6;
+    color: #333;
+  }
+  
+  .post-grid {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+  
+  .post-card {
+    flex: 1;
+    min-width: 250px;
+    max-width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: center;
+    padding: 1rem;
+    background-color: white;
+  }
+  
+  .affiliate-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    background: #fff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .btn-primary {
+    background-color: #007ACC;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 8px;
+  }

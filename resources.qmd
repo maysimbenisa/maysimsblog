@@ -1,0 +1,20 @@
+---
+title: "Resources I Use & Love"
+format: html
+---
+
+## 🛠 My Favorite Tools
+
+<div class="affiliate-card">
+  <img src="images/notion.jpg" alt="Notion" />
+  <h3>Notion</h3>
+  <p>My go-to tool for content planning and life organization.</p>
+  <a href="https://affiliate-link.com" target="_blank">Try Notion</a>
+</div>
+
+<div class="affiliate-card">
+  <img src="images/canva.jpg" alt="Canva" />
+  <h3>Canva Pro</h3>
+  <p>Make Pinterest pins in minutes.</p>
+  <a href="https://affiliate-link.com" target="_blank">Try Canva</a>
+</div>

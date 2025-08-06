@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Life With Maysim"
+  site-url: "https://maysim.github.io/maysimsblog/"
+  favicon: images/favicon.png
+
+  navbar:
+    search: true
+    background: pink
+    left:
+      - text: Beauty Reviews
+        file: beauty.qmd
+      - text: Blog Posts
+        file: blogposts.qmd
+      - text: Movie Reviews
+        file: movies.qmd
+      - text: Resources
+        file: resources.qmd
+      - text: About
+        file: about.qmd
+
+  page-footer:
+    left: "© 2025 Maysim Benisa"
+    right: 
+      - icon: github
+        href: https://github.com/maysim
+      - icon: rss
+        href: posts/index.xml
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    reader-mode: false
+    page-layout: full

@@ -1,0 +1,59 @@
+---
+title: ""
+format: 
+  html:
+    toc: false
+page-layout: full
+---
+
+<!-- Banner Section -->
+<div style="
+  background-image: url('images/ballerina.jpeg');
+  background-size: cover;
+  background-position: center;
+  min-height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+">
+  <h1 style="font-size: 3rem; margin: 0; text-align: center; ">♡ Welcome to My Life ♡</h1>
+</div>
+
+<!-- Intro Section -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 2rem; max-width: 700px; margin: auto;">
+
+### Practical tips, slow living, and creativity — one post at a time.
+
+<p style="font-size: 1.1rem; margin: 1rem 0 2rem;">
+Welcome! This is a space where I explore sustainable lifestyle, share affiliate-friendly resources, and document creative experiments in building online income through Pinterest and blogging.
+</p>
+
+[Browse Blog Posts](blogposts.qmd){.btn .btn-primary}
+
+</div>
+
+<!-- Featured Posts Grid -->
+## 🔥 Featured Posts
+
+<div class="post-grid">
+
+  <a class="post-card" href="posts/first-post.html">
+    <img src="images/post1.jpg" alt="Creative Income" />
+    <h3>How I Build Creative Income Online</h3>
+  </a>
+
+  <a class="post-card" href="posts/pinterest-guide.html">
+    <img src="images/post2.jpg" alt="Pinterest Guide" />
+    <h3>Master Pinterest for Blog Traffic</h3>
+  </a>
+
+  <a class="post-card" href="posts/sustainable-living.html">
+    <img src="images/post3.jpg" alt="Sustainable Living" />
+    <h3>Slow Living Tips for a Joyful Life</h3>
+  </a>
+
+</div>
