@@ -6,10 +6,9 @@ format:
 page-layout: full
 ---
 
-![](images/ballerina.jpeg)
 <!-- Banner Section -->
 <div style="
-  background-image: url('images/ballerina.jpeg');
+  background-image: url('images/blog_landing_2.png');
   background-size: cover;
   background-position: center;
   min-height: 40vh;
@@ -18,8 +17,9 @@ page-layout: full
   justify-content: center;
   text-align: center;
   color: white;
-  border-radius: 12px;
-  margin-bottom: 3rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 ">
   <h1 style="font-size: 3rem; margin: 0; text-align: center; ">♡ Welcome to My Life ♡</h1>
 </div>
